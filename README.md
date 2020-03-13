@@ -1,4 +1,4 @@
-# subsync.smacke (v0.3.1)
+# subsync.smacke (v0.3.2)
 
 https://github.com/smacke/subsync (Docker version)
 
